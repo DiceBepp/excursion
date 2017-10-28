@@ -9,6 +9,7 @@ h1 {
 #link {
   color: Aquamarine;
   font-size: 16px;
+  text-decoration: underline;
 }
 h2 {
   font-weight: 300;
@@ -19,6 +20,6 @@ p {
   font-size: 21px;
   color: gray;
 }
-.tag {
+footer {
   text-align: right;
 }
